@@ -3,7 +3,7 @@ I am a functional programming enthusiast
 
 <img  align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldjoabet&layout=compact"> 
 
-## My Stack
+# My Stack
 <img  align="left" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">
 <img  align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
 <img  align="left"  src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
