@@ -1,7 +1,7 @@
 # Hi there , I am Reynald 👋
 I am a functional programming enthusiast
 
-<img  align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldjoabet&langs_count=10&layout=compact"> 
+<img  align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldjoabet&langs_count=8&layout=compact"> 
 
 # My Stack
 <img  align="left" src="https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white">
