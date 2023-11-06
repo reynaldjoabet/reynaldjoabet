@@ -1,5 +1,5 @@
 # Hi there , I am Reynald 👋
-I am a functional programming enthusiast
+I am a functional programming enthusiast and use Scala as my primary programming language. I am interested in distributed systems, security, database internals, compiler design, robotics and software engineering
 
 <img  align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynaldjoabet&langs_count=8&layout=compact"> 
 
